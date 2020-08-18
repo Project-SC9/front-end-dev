@@ -300,6 +300,73 @@ p {
    cursor: pointer;
 }
 
+.p{
+  width: 41px;
+  height: 16px;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #a9a9a9;
+}
+
+.boss{
+  width: 902px;
+  height: 70px;
+  margin: 5px auto;
+  overflow: hidden;
+  
+}
+
+.boss div{
+	width: 60px;
+	height: 60
+	border: solid 1px gray;
+	float: left;
+	margin-left: 10px;
+}
+
+.boss div img {
+   display: block;	
+   width:51px;
+   height:51px;
+}
+
+
+ul{
+   list-style: none;
+}
+
+.box{
+   width:450px;
+   height: 600px;
+   
+   margin: 1px auto 0;
+   overflow: hidden;
+}
+ 
+.box ul{
+   width:500px;
+   margin: 20px 0 13px 20px; 
+}
+
+.box ul li img{
+   width: 160px;
+   height: 224px;
+   border-radius: 8px;
+   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.box ul li{
+    width: 160px;
+    height: 100px;
+    float:left;
+    margin: 0 29px 25px 0;
+}
+
 </style>
 
 <h1>Choose What </h1>
@@ -312,6 +379,44 @@ p {
     <input type="button" name="" id="" class="btn">
   </form>
 </div>
+
+<!-- 
+<div>    
+  <ul class="list">           
+    <img src="static/images/fenleilan/robot 1.png" align="bottom">
+    <div class="p">Colors</div>
+
+  </ul>
+</div>  
+-->
+<div class="boss">
+	<div>
+		<img src="static/images/fenleilan/robot 1.png" alt="">
+		<div class="p">Colors</div>
+	</div>
+	<div>
+		<img src="static/images/fenleilan/robot 1.png" alt="">
+		<div class="p">Colors</div>
+	</div>
+	<div>
+		<img src="static/images/fenleilan/robot 1.png" alt="">
+		<div class="p">Colors</div>
+	</div>
+	<div>
+		<img src="static/images/fenleilan/robot 1.png" alt="">
+		<div class="p">Colors</div>
+	</div>
+</div>
+
+<div class='box'>
+    <div class="title"></div>
+    <ul>
+    <li><a href="#"><img src="static/images/imagesDisplay/Cards.png" alt=""></a></li>
+
+    <li><a href="#"><img src="static/images/imagesDisplay/Cards.png" alt=""></a></li>
+    </ul>
+</div>
+
 
 </body>
 </html>
