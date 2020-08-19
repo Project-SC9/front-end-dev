@@ -105,7 +105,7 @@ ul{
 
 .box{
    width:450px;
-   height: 600px;
+   height: 350px;
    
    margin: 1px auto 0;
    overflow: hidden;
@@ -131,7 +131,7 @@ ul{
     margin: 0 29px 25px 15;
 }
 
-.rectangle {
+.rectangle div img{
   width: 414px;
   height: 100px;
   object-fit: contain;
