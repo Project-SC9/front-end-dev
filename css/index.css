@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>SC9</title>
-	<meta name="description" content="The small framework with powerful features">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/index.css">
-	<!-- <link rel="shortcut icon" type="image/png" href="/favicon.ico"/> -->
-</head>
-
-<body>
-<!--	
-<style>
  h1 {
   width: 231px;
   height: 20px;
@@ -140,57 +126,3 @@ ul{
     float:left;
     margin: 0 29px 25px 0;
 }
-
-</style>  -->
-
-<h1>Choose What </h1>
-
-<p>to play today? </p>
-
-<div class="container">
-  <form action="" class="parent">
-    <input type="text" class="search" placeholder="Search...">
-    <input type="button" name="" id="" class="btn">
-  </form>
-</div>
-
-<!-- 
-<div>    
-  <ul class="list">           
-    <img src="static/images/fenleilan/robot 1.png" align="bottom">
-    <div class="p">Colors</div>
-
-  </ul>
-</div>  
--->
-<div class="boss">
-	<div>
-		<img src="css/images/fenleilan/robot 1.png" alt="">
-		<div class="p">Colors</div>
-	</div>
-	<div>
-		<img src="cssimages/fenleilan/robot 1.png" alt="">
-		<div class="p">Colors</div>
-	</div>
-	<div>
-		<img src="css/images/fenleilan/robot 1.png" alt="">
-		<div class="p">Colors</div>
-	</div>
-	<div>
-		<img src="css/images/fenleilan/robot 1.png" alt="">
-		<div class="p">Colors</div>
-	</div>
-</div>
-
-<div class='box'>
-    <div class="title"></div>
-    <ul>
-    <li><a href="#"><img src="css/images/imagesDisplay/Cards.png" alt=""></a></li>
-
-    <li><a href="#"><img src="css/images/imagesDisplay/Cards.png" alt=""></a></li>
-    </ul>
-</div>
-
-
-</body>
-</html>
