@@ -131,7 +131,7 @@ ul{
     margin: 0 29px 25px 15;
 }
 
-.rectangle div img{
+.rectangle {
   width: 414px;
   height: 100px;
   object-fit: contain;
