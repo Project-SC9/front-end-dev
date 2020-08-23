@@ -55,7 +55,7 @@ p {
    height: 35px;
    width: 35px;
    position: absolute;
-   background: url("css/images/Search.png") no-repeat -2px -99px;
+   background: url("css/images/search/Search.png") no-repeat -2px -99px;
    top: 6px;
    left: 285px;
    border: none;
