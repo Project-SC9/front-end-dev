@@ -103,7 +103,7 @@ ul{
    list-style: none;
 }
 
-.box{
+.box1{
    width:450px;
    height: 300px;
    
@@ -111,12 +111,12 @@ ul{
    overflow: hidden;
 }
  
-.box ul{
+.box1 ul{
    width:500px;
    margin: 20px 0 13px -20px; 
 }
 
-.box ul li img{
+.box1 ul li img{
    width: 160px;
    height: 224px;
    border-radius: 8px;
@@ -124,7 +124,35 @@ ul{
 
 }
 
-.box ul li{
+.box1 ul li{
+    width: 160px;
+    height: 100px;
+    float:left;
+    margin: 0 29px 25px 15;
+}
+
+.box1{
+   width:450px;
+   height: 300px;
+   
+   margin: -40px auto 0;
+   overflow: hidden;
+}
+ 
+.box2 ul{
+   width:500px;
+   margin: 20px 0 13px -20px; 
+}
+
+.box2 ul li img{
+   width: 160px;
+   height: 224px;
+   border-radius: 8px;
+   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+
+}
+
+.box2 ul li{
     width: 160px;
     height: 100px;
     float:left;
