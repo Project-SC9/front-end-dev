@@ -131,35 +131,6 @@ ul{
     margin: 0 29px 25px 15;
 }
 
-.wrap{
-   width:450px;
-   height: 300px;
-   
-   margin: -40px auto 0;
-   overflow: hidden;
-}
- 
-.wrap ul{
-   width:500px;
-   margin: 20px 0 13px -20px; 
-}
-
-.wrap ul li img{
-   width: 160px;
-   height: 224px;
-   border-radius: 8px;
-   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
-
-}
-
-.wrap ul li{
-    width: 160px;
-    height: 100px;
-    float:left;
-    margin: 0 29px 25px 15;
-}
-
- 
 .rectangle {
   width: 360px;
   height: 100px;
