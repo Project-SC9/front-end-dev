@@ -103,7 +103,7 @@ ul{
    list-style: none;
 }
 
-.box1{
+.box{
    width:450px;
    height: 300px;
    
@@ -111,12 +111,12 @@ ul{
    overflow: hidden;
 }
  
-.box1 ul{
+.box ul{
    width:500px;
    margin: 20px 0 13px -20px; 
 }
 
-.box1 ul li img{
+.box ul li img{
    width: 160px;
    height: 224px;
    border-radius: 8px;
@@ -124,14 +124,14 @@ ul{
 
 }
 
-.box1 ul li{
+.box ul li{
     width: 160px;
     height: 100px;
     float:left;
     margin: 0 29px 25px 15;
 }
 
-.box1{
+.wrap{
    width:450px;
    height: 300px;
    
@@ -139,12 +139,12 @@ ul{
    overflow: hidden;
 }
  
-.box2 ul{
+.wrap ul{
    width:500px;
    margin: 20px 0 13px -20px; 
 }
 
-.box2 ul li img{
+.wrap ul li img{
    width: 160px;
    height: 224px;
    border-radius: 8px;
@@ -152,13 +152,14 @@ ul{
 
 }
 
-.box2 ul li{
+.wrap ul li{
     width: 160px;
     height: 100px;
     float:left;
     margin: 0 29px 25px 15;
 }
 
+ 
 .rectangle {
   width: 360px;
   height: 100px;
