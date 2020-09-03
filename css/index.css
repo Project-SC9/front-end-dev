@@ -55,10 +55,10 @@ p {
    height: 20px;
    width: 20px;
    position: absolute;
-   background: url("css/images/search/Search.png");
+   background: url('css/images/search/Search.png');
    background-repeat: no-repeat;
-   top: 10px;
-   left: 3px;
+   top: 152px;
+   left: 10px;
    border: none;
    outline: none;
    cursor: pointer;
